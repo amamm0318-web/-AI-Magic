@@ -1,0 +1,6 @@
+{
+  "name": "استوديو الذكاء الاصطناعي",
+  "description": "تطبيق استوديو الذكاء الاصطناعي الشامل: محادثات ذكية وتفكير متقدم، توليد وتعديل الصور، تحويل النص إلى صوت، وتحليل الصور والفيديو باستخدام أحدث نماذج Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
